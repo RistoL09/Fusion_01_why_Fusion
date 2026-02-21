@@ -12,29 +12,29 @@ In the classic fusion reaction—the deuterium–tritium (D–T) reaction—a de
 
 ![DT Fusion Process](asset/dtfusion.png)
 
-\[
+$$
 {}^{2}*{1}\mathrm{H} + {}^{3}*{1}\mathrm{H} \rightarrow {}^{4}*{2}\mathrm{He} + {}^{1}*{0}\mathrm{n} + 17.6~\mathrm{MeV}
-\]
+$$
 
 But where does the **17.6 MeV** come from? The answer is the most famous equation in physics:
 
-\[
+$$
 E = mc^2
-\]
+$$
 
 In nuclear reactions, "mass" is really a form of energy. If the total mass of the products is slightly **smaller** than the total mass of the reactants, the missing mass (called the **mass defect**) is released as energy:
 
-\[
+$$
 \Delta m = \big(m_{\mathrm{D}} + m_{\mathrm{T}}\big) - \big(m_{\mathrm{He}} + m_{\mathrm{n}}\big) > 0,
 \qquad
 Q = \Delta m\,c^2
-\]
+$$
 
 For D–T fusion, this mass defect corresponds to:
 
-\[
+$$
 Q \approx 17.6~\mathrm{MeV}
-\]
+$$
 
 Physically, that released energy mostly becomes **kinetic energy** of the reaction products (they fly away fast):
 
